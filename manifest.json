@@ -1,0 +1,39 @@
+{
+    "name":"Neptune",
+    "version":"1.0.0",
+    "description":"Modern theme for Google Chrome",
+    "manifest_version":2,
+    "theme":{
+        "colors":{
+            "frame":[53, 59, 72],
+            "frame_inactive":[38, 43, 51],
+            "frame_incognito":[38, 43, 51],
+            "frame_incognito_inactive":[38, 43, 51],
+            "background_tab":[38, 43, 51], 
+            "background_tab_inactive":[38, 43, 51], 
+            "background_tab_incognito":[3,3,3], 
+            "background_tab_incognito_inactive":[33, 150, 243], 
+            "toolbar":[38, 43, 10],
+            "tab_text":[33, 150, 243],
+            "tab_background_text":[53, 59, 99],
+            "tab_background_text_inactive":[53, 59, 72],
+            "tab_background_text_incognito":[254, 254, 254],
+            "tab_background_text_incognito_inactive":[53, 59, 72],
+            "bookmark_text":[33, 150, 243],
+            "ntp_background":[53, 59, 72],
+            "ntp_text":[33, 150, 243],
+            "ntp_link":[33, 150, 243],
+            "ntp_section" : [207, 221, 192],
+            "ntp_header":[33, 150, 243],
+            "button_background":[53, 59, 72,70]
+        },
+        "tints" : {
+            "buttons" : [53, 59, 72]
+        },
+        "icons": { 
+            "16": "neptune16.png",
+            "48": "neptune48.png",
+           "128": "neptune128.png" 
+        }
+    }
+}
