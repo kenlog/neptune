@@ -2,6 +2,8 @@
     "name":"Neptune",
     "version":"1.0.0",
     "description":"Modern theme for Google Chrome",
+    "author": "Valentino Pesce",
+    "homepage_url": "https://github.com/kenlog/neptune",
     "manifest_version":2,
     "theme":{
         "colors":{
