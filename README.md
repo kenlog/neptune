@@ -11,7 +11,7 @@ Modern theme for Google Chrome
 ![install](https://user-images.githubusercontent.com/11728231/60741674-a24fcf80-9f6a-11e9-8af3-dd744da33288.gif)
 
 ### Preview
-![preview](https://user-images.githubusercontent.com/11728231/60739565-b4c60b00-9f62-11e9-90ea-94babbeebba5.jpg)
+![preview](https://user-images.githubusercontent.com/11728231/60756565-15a32100-9fff-11e9-8f59-039dd8143cc6.jpg)
 
 ## Author
 
